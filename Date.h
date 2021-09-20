@@ -67,7 +67,3 @@ public:
 };
 
 const _ptr<Date>& compares_dates(const _ptr<Date>&, const _ptr<Date>&);
-
-void exercise_1();
-void exercise_2();
-
